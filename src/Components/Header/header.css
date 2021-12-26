@@ -1,0 +1,14 @@
+.header-btn{
+background-color: var(--green-color);
+}
+
+.header-btn-link{
+    color: white;
+    text-decoration: none;
+    
+    ;
+}
+.header-btn-link:hover{
+    color: white;
+    text-decoration: none;
+}

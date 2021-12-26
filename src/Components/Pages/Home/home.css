@@ -1,0 +1,4 @@
+.stroke-text{
+    -webkit-text-stroke: 2px var(--green-color) !important;
+    /* color: var(--white-color); */
+}

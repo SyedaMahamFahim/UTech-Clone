@@ -1,8 +1,12 @@
-import PhotoGallery from "./Components/PhotoGallery/PhotoGallery";
+import Header from "./Components/Header/Header";
+import Home from "./Components/Pages/Home/Home";
+import './index.css'
 function App() {
   return (
     <>
-    <PhotoGallery/>
+{/* <Header/> */}
+<Home/>
+{/* hello Worlrd */}
     </>
   );
 }
